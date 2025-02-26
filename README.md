@@ -44,15 +44,5 @@ No, it's not a palindrome.
 
 - Python 3
 
-## License
-
-This project is licensed under the MIT License.
-
-## Contributions
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
-## Contact
-
-For any questions or suggestions, reach out at [your email] or visit [your website].
+## Made by ❤ Paras Raju
 
